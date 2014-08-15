@@ -37,20 +37,20 @@ CONTENTS
 
 ### URL
 ```
-(Show Text)[Link]
+(SHOW TEXT)[LINK]
 ```
 
 ### List
 ```
 list
-* item
-* item
+* ITEM
+* ITEM
 list-end
 ```
 
 ```
 list=1
-* item
-* item
+* ITME
+* ITEM
 list-end
 ```
