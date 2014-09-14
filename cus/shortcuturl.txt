@@ -1,0 +1,5 @@
+plugins http://rm.66rpg.com/thread-347133-1-1.html
+bookviewer http://rm.66rpg.com/thread-337128-1-1.html
+calendar http://rm.66rpg.com/thread-330684-1-1.html
+autosave http://rm.66rpg.com/thread-332854-1-1.html
+Astar http://rm.66rpg.com/thread-369852-1-1.html

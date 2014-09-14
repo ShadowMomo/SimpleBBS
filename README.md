@@ -5,6 +5,8 @@ Let BBS post easier to write!
 
 ---
 
+[Instruction: `SimpleBBS.parse(srcfile)`]
+
 ### Title & Subtitle
 ```
 head TITLE
